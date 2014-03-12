@@ -1,6 +1,4 @@
-## my jquery tab plugin
-
-### how to use it 
+#### how to use jptab 
 
 ```html
 <script>
