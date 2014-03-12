@@ -1,0 +1,56 @@
+#mytab {
+    margin: 10px auto;
+    width: 40%;
+    font-family: Consolas, 'Liberation Mono', Courier, monospace;
+}
+
+#mytab2 {
+    margin: 10px auto;
+    width: 50%;
+    font-family: Consolas, 'Liberation Mono', Courier, monospace;    
+}
+
+.tabs {
+
+}
+
+.tabs ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.tabs ul li {
+    float: left;
+    padding: 10px;
+    text-transform: uppercase;
+}
+
+.tabs ul li a {
+    color: #ccc;
+    text-decoration: none;    
+}
+
+
+.tabs ul li.active {
+    background-color: rgb(250, 250, 250);
+    color: #fff;
+}
+
+.tabs ul li.active a {
+    color: rgb(223, 117, 20);
+}
+
+.tabs ul li:last-child {
+    border-left: none;
+}
+
+.tabs ul li:first-child {
+    border-right: none;
+}
+
+.tab-block {
+    background: rgb(250, 250, 250);
+    clear: both;
+    padding: 10px;
+}
