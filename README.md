@@ -1,4 +1,4 @@
-## my first jQuery tab plugin
+## my jquery tab plugin
 
 ### how to use it 
 
