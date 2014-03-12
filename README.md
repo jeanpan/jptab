@@ -1,4 +1,4 @@
-#### how to use jptab 
+#### How to use jptab ?
 
 ```html
 <script>
