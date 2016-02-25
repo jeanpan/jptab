@@ -1,13 +1,7 @@
 #mytab {
     margin: 10px auto;
     width: 40%;
-    font-family: Consolas, 'Liberation Mono', Courier, monospace;
-}
-
-#mytab2 {
-    margin: 10px auto;
-    width: 50%;
-    font-family: Consolas, 'Liberation Mono', Courier, monospace;    
+    font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
 }
 
 .tabs {
@@ -28,12 +22,12 @@
 
 .tabs ul li a {
     color: #ccc;
-    text-decoration: none;    
+    text-decoration: none;
 }
 
 
 .tabs ul li.active {
-    background-color: rgb(250, 250, 250);
+    background: #eee;
     color: #fff;
 }
 
@@ -50,7 +44,7 @@
 }
 
 .tab-block {
-    background: rgb(250, 250, 250);
+    background: #eee;
     clear: both;
     padding: 10px;
 }
